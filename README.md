@@ -15,7 +15,7 @@ Crie uma aplicação que consuma esses dados.
 Do dia **28/02/2025** ao dia **12/03/2025** qualquer pessoa poderá participar gratuitamente desse hackathon. Basta entrar no site da Codante, acessar a [página oficial do hackathon](https://codante.io/mini-projetos/hackathon-do-carnaval-de-2025) e seguir o passo-a-passo:
 1. Se cadastrar com o seu GitHub no Codante
 2. Clicar em *"Participar"* do projeto
-3. Fazer o fork do repositório oficial [Repositório](https://github.com/codante-io/mp-hackaton-do-carnaval-2025/fork)
+3. Fazer o fork do repositório oficial [Link Oficial](https://github.com/codante-io/mp-hackaton-do-carnaval-2025/fork)
 4. Clicar em *"Verificar fork"*
 5. Implementar a sua solução no seu fork do repositório oficial
 6. Fazer deploy e submeter o link da sua resolução no site do Codante
