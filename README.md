@@ -1,7 +1,6 @@
 # Hackathon do Carnaval de 2025 da [Codante](https://codante.io)
 
-Nós disponibilizamos uma [API com os dados dos bloquinhos de rua do carnaval](https://docs.apis.codante.io/olympic-games) e agora é com você!
-
+Nós disponibilizamos uma [API com os dados dos bloquinhos de rua do carnaval](https://docs.apis.codante.io/bloquinhos-2025) e agora é com você!
 Crie uma aplicação que consuma esses dados.
 
 
