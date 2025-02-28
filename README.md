@@ -13,21 +13,18 @@ Crie uma aplicação que consuma esses dados.
 
 
 ### 👉🏽 Registre sua participação
-Do dia **28/02/2025** ao dia **12/03/2025** qualquer pessoa poderá participar gratuitamente desse hackathon. Basta entrar no site da Codante, acessar a [página oficial do hackathon](https://codante.io/mini-projetos/hackathon-olimpiadas) e seguir o passo-a-passo:
+Do dia **28/02/2025** ao dia **12/03/2025** qualquer pessoa poderá participar gratuitamente desse hackathon. Basta entrar no site da Codante, acessar a [página oficial do hackathon](https://codante.io/mini-projetos/hackathon-do-carnaval-de-2025) e seguir o passo-a-passo:
 1. Se cadastrar com o seu GitHub no Codante
 2. Clicar em *"Participar"* do projeto
-3. Fazer o fork do repositório oficial (https://github.com/codante-io/mp-hackathon-olimpiadas/fork)
+3. Fazer o fork do repositório oficial (https://github.com/codante-io/mp-hackaton-do-carnaval-2025/fork)
 4. Clicar em *"Verificar fork"*
 5. Implementar a sua solução no seu fork do repositório oficial
 6. Fazer deploy e submeter o link da sua resolução no site do Codante
 
-> [!TIP]  
-> 📺 Você pode ver um [tutorial em vídeo sobre esse passo-a-passo aqui](https://codante.io/workshops/resolucao-pagina-de-faq/participando-do-mini-projeto-no-codante).
-
 ### 🔨 Desenvolva seu projeto
 Você deverá criar uma aplicação que utilize os dados dos bloquinhos por meio da nossa API.
 
-🔗 Link da API aqui: https://docs.apis.codante.io/carnaval-2025
+🔗 Link da API aqui: https://docs.apis.codante.io/bloquinhos-2025
 
 Use sua criatividade para pensar em uma solução interessante. Temos algumas sugestões (*mas fique a vontade para criar o que você quiser*):
 1. Filtrar por bairro
