@@ -40,11 +40,6 @@ Você pode utilizar a tecnologia que quiser, desde que você disponibilize e sub
 Você obrigatoriamente deverá usar nossa API, mas pode utilizar outras fontes de dados também.
 
 
-## 🏆 Premiação
-Nosso principal objetivo com esse hackathon é estimular que vocês pratiquem programação. O mais valioso é aprender e se divertir um pouco no processo. Então entrem com o *espírito olímpico* de uma competição saudável.
-
-Pra tornar as coisas mais divertidas, vamos dar uma premiação para as 3 melhores soluções.
-
 ## ❓ Perguntas frequentes
 <details>
 <summary>Quais tecnologias posso usar no desenvolvimento da minha aplicação?</summary>
