@@ -1,51 +1,71 @@
-# Nome do Mini Projeto
+# Hackathon do Carnaval de 2025 da [Codante](https://codante.io)
 
-(um parágrafo explicando)
+Nós disponibilizamos uma [API com os dados dos bloquinhos de rua do carnaval](https://docs.apis.codante.io/olympic-games) e agora é com você!
 
-## 🤓 Antes de começar
+Crie uma aplicação que consuma esses dados.
 
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
 
-## 🔨 Requisitos
+## 🤔 Como participar?
 
-- Requisito 1
-- Requisito 2
+📅 **Data de início:** 28/02/2025
 
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
+📅 **Data limite para submissão:** 12/03/2025 às 23:59
 
-- Requisito 3
-- ...
 
-## 🔨 Desafio extra para quem quer ir além
+### 👉🏽 Registre sua participação
+Do dia **28/02/2025** ao dia **12/03/2025** qualquer pessoa poderá participar gratuitamente desse hackathon. Basta entrar no site da Codante, acessar a [página oficial do hackathon](https://codante.io/mini-projetos/hackathon-olimpiadas) e seguir o passo-a-passo:
+1. Se cadastrar com o seu GitHub no Codante
+2. Clicar em *"Participar"* do projeto
+3. Fazer o fork do repositório oficial (https://github.com/codante-io/mp-hackathon-olimpiadas/fork)
+4. Clicar em *"Verificar fork"*
+5. Implementar a sua solução no seu fork do repositório oficial
+6. Fazer deploy e submeter o link da sua resolução no site do Codante
 
-(Essa seção é opcional)
+> [!TIP]  
+> 📺 Você pode ver um [tutorial em vídeo sobre esse passo-a-passo aqui](https://codante.io/workshops/resolucao-pagina-de-faq/participando-do-mini-projeto-no-codante).
 
-- Requisito extra 1. 
-- Requisito extra 2.
+### 🔨 Desenvolva seu projeto
+Você deverá criar uma aplicação que utilize os dados dos bloquinhos por meio da nossa API.
 
-## 🎨 Design Sugerido
+🔗 Link da API aqui: https://docs.apis.codante.io/carnaval-2025
 
-Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar a aplicação conforme a sua criatividade.
+Use sua criatividade para pensar em uma solução interessante. Temos algumas sugestões (*mas fique a vontade para criar o que você quiser*):
+1. Filtrar por bairro
+2. Filtrar por horário
+3. Buscar por nome
+4. Exibir os bloquinhos pré, durante e pós carnaval
 
-### Figma
+Você pode utilizar a tecnologia que quiser, desde que você disponibilize e submeta no nosso site um link com a aplicação funcionando. Se for um app mobile, pode ser o link da Play Store ou App Store.
 
-🔗 [Link do design]()
+Você obrigatoriamente deverá usar nossa API, mas pode utilizar outras fontes de dados também.
 
-## 👉🏽 Sobre esse mini-projeto
 
-### O que você irá praticar:
+## 🏆 Premiação
+Nosso principal objetivo com esse hackathon é estimular que vocês pratiquem programação. O mais valioso é aprender e se divertir um pouco no processo. Então entrem com o *espírito olímpico* de uma competição saudável.
 
-#### React
+Pra tornar as coisas mais divertidas, vamos dar uma premiação para as 3 melhores soluções.
 
-- Habilidade 1 do React
-- Habilidade 2
+## ❓ Perguntas frequentes
+<details>
+<summary>Quais tecnologias posso usar no desenvolvimento da minha aplicação?</summary>
 
-#### TailwindCSS
+```
+Você tem a liberdade de usar qualquer tecnologia para criar a sua aplicação, desde que ela seja acessível online. Se você desenvolver um aplicativo mobile, forneça o link da Play Store ou App Store. 
+```
+</details>
 
-- Habilidade 1 do TailwindCSS
+<details>
+<summary>Posso usar outras fontes de dados além da API fornecida?</summary>
 
-### Pré requisitos
+```
+Sim, você pode integrar outras fontes de dados externas à sua aplicação, além da API que fornecemos. No entanto, lembre-se que o uso da nossa API é obrigatório para participar do hackathon.
+```
+</details>
 
-(coloque aqui se houver algum)
+<details>
+<summary>Posso fazer em dupla ou com mais pessoas?</summary>
+
+```
+Sim.
+```
+</details>
